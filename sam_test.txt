@@ -1,0 +1,5 @@
+This is Sam
+Barely
+Remembering
+About vi
+(let alone git)
